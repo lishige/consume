@@ -1,3 +1,5 @@
+# 软件
+
 | 序号 | 软件相关内容                                                 | 消费   | 平台                       |
 | ---- | ------------------------------------------------------------ | ------ | -------------------------- |
 | 1    | 红线                                                         | 5      | Android、IOS               |
@@ -5,10 +7,10 @@
 | 3    | Downie                                                       | 17.4   | Mac                        |
 | 4    | Typora                                                       | 73     | Mac、Windows               |
 | 5    | 优效文件助手                                                 | 35     | Windows                    |
-| 6    | WinRAR（6版本）                                              | 179    | Windows                    |
+| 6    | WinRAR(6版本)                                                | 179    | Windows                    |
 | 7    | Directory Opus 12 Pro                                        | 238    | Windows                    |
 | 8    | 不知名产品付费一                                             | 350    | 不知名平台                 |
-| 9    | WonderShare PDF终身版（这个软件是再也不可能付费了，直接抛弃原先用户的权益，直接搞付费了） | 279    | Windows                    |
+| 9    | WonderShare PDF终身版(这个软件是再也不可能付费了，直接抛弃原先用户的权益，直接搞付费了) | 279    | Windows                    |
 | 10   | 不知名产品付费二                                             | 1044   | Windows                    |
 | 11   | 不知名产品付费三                                             | 350    | Windows                    |
 | 12   | Bandizip和Honeycam                                           | 191.36 | Windows                    |
@@ -20,13 +22,13 @@
 | 18   | WonderFox办公文档管理加密隐藏器工具软件                      | 47.4   | Windows                    |
 | 19   | cFos Personal Net 数据文件管理同步软件                       | 0.01   | Window                     |
 | 20   | Downie                                                       | 17.4   | Mac                        |
-| 21   | Typora                                                       | 73     | Mac、Windows               |
+| 21   | ES文件浏览器                                                 | 99     | Android                    |
 | 22   | 优效文件助手                                                 | 35     | Windows                    |
 | 23   | myBase8                                                      | 229.08 | Mac或Windows               |
 | 24   | WinRAR6                                                      | 179    | Windows                    |
 | 25   | DirectoryOpus 12 Pro                                         | 238    | Windows                    |
 | 26   | 不知名软件                                                   | 350    | 不知名平台                 |
-| 27   | WonderShare PDF终身版（这个软件是再也不可能付费了，直接抛弃原先用户的权益，直接搞付费了） | 279    | Windows                    |
+| 27   | 指间书摘                                                     | 34.4   | Android                    |
 | 28   | 不知名软件                                                   | 1044   | Windows                    |
 | 29   | 不知名软件                                                   | 350    | Windows                    |
 | 30   | Bandizip和Honeycam                                           | 191.36 | Windows                    |
@@ -55,18 +57,18 @@
 | 53   | 白描                                                         | 19     | 全平台                     |
 | 54   | InternetDownloadManager                                      | 92.55  | Windows                    |
 | 55   | Iris Pro                                                     | 0.1    | Windows                    |
-| 56   | Snipaste Rro                                                 | 83     | Windows                    |
+| 56   | Snipaste Pro(微软商店版)                                     | 83     | Windows                    |
 | 57   | Wgestures 2                                                  | 19.7   | Windows                    |
-| 58   | 为知笔记一年会员                                             | 11     | Windows                    |
-| 59   | 为知笔记一年会员                                             | 11     | Windows                    |
+| 58   | 便捷下载                                                     | 45     | Android                    |
+| 59   | 优效文件助手                                                 | 35     | Windows                    |
 | 60   | CleanShot                                                    | 141.53 | Windows                    |
 | 61   | XYplorer                                                     | 144.39 | Windows                    |
 | 62   | Moment                                                       | 6      | Mac                        |
-| 63   | Diarium                                                      | 24     | Windows                    |
-| 64   | GooglePlay$                                                  | 156    | Android                    |
+| 63   | Diarium(微软商店版)                                          | 24     | Windows                    |
+| 64   | SafeInCloud(微软商店版)                                      | 21     | Windows                    |
 | 65   | Dropbox                                                      | 19.9   | 网页                       |
-| 66   | GooglePlay$                                                  | 34     | Android                    |
-| 67   | GooglePlay$                                                  | 32     | Android                    |
+| 66   | 记得日子                                                     | 19     | Android                    |
+| 67   | 重要日子                                                     | 4      | Android                    |
 | 68   | MT管理器                                                     | 98.8   | Android                    |
 | 69   | BitDock                                                      | 57.62  | Windows                    |
 | 70   | 色采                                                         | 25.81  | Android、IOS               |
@@ -74,7 +76,7 @@
 | 72   | OneSwitch                                                    | 13.4   | Mac                        |
 | 73   | 落格输入法                                                   | 11.11  | Mac                        |
 | 74   | MateTranslate                                                | 11.11  | Mac                        |
-| 75   | Scrible Ink                                                  | 32     | Windows                    |
+| 75   | Scrible Ink(微软商店版)                                      | 32     | Windows                    |
 | 76   | Nebo                                                         | 39     | Windows                    |
 | 77   | InternetDownloadManager                                      | 0.64   | Windows                    |
 | 78   | PDF Reader Pro                                               | 88     | Windows                    |
@@ -90,18 +92,18 @@
 | 88   | Cacheman                                                     | 93.83  | Windows                    |
 | 89   | AdGuard                                                      | 79.2   | 全平台                     |
 | 90   | 极度扫描                                                     | 30     | 全平台                     |
-| 91   | OneDrive扩容                                                 | 2      | 网页                       |
-| 92   | 可乐记（3设备）                                              | 35.3   | 全平台                     |
-| 93   | 可乐记（2设备）                                              | 2.87   | 全平台                     |
-| 94   | 可乐记（1设备）                                              | 21.85  | 全平台                     |
+| 91   | 图叨叨                                                       | 18     | Android                    |
+| 92   | 可乐记(3设备)                                                | 35.3   | 全平台                     |
+| 93   | 可乐记(2设备)                                                | 2.87   | 全平台                     |
+| 94   | 可乐记(1设备)                                                | 21.85  | 全平台                     |
 | 95   | 每日德语听力加德语助手终身会员                               | 498    | 全平台                     |
 | 96   | 每日西语听力加西语助手终身会员                               | 498    | 全平台                     |
-| 97   | Moment（倒数日）                                             | 6      | Mac                        |
+| 97   | Moment(倒数日)                                               | 6      | Mac                        |
 | 98   | OffScreen                                                    | 18     | Android、IOS               |
 | 99   | 优效日历                                                     | 199    | Windows                    |
 | 100  | SDMaid                                                       | 19.39  | Android                    |
 | 101  | 纸塘壁纸                                                     | 46     | Android                    |
-| 102  | Bmap（白马地图）                                             | 88     | Android                    |
+| 102  | Bmap(白马地图)                                               | 88     | Android                    |
 | 103  | OneCalendar                                                  | 35     | 不清楚                     |
 | 104  | 白描证件照                                                   | 1      | Android                    |
 | 105  | Migi                                                         | 50     | 全平台                     |
@@ -121,4 +123,29 @@
 | 119  | Noteself                                                     | 33.06  | Windows                    |
 | 120  | 享做笔记                                                     | 39     | Android                    |
 | 121  | 一木记账                                                     | 54.4   | Android                    |
+| 122  | 次元壁纸                                                     | 15     | Android                    |
 
+合计11485.36元
+
+# 邮件
+
+| 序号 | 邮箱          | 费用 |
+| ---- | ------------- | ---- |
+| 1    | seer@88.com   | 16.8 |
+| 2    | focus@111.com | 68   |
+| 3    | spark@111.com | 68   |
+
+合计152.8元
+
+# 云端
+
+| 序号 | 服务                       | 费用 | 平台   |
+| ---- | -------------------------- | ---- | ------ |
+| 1    | 为知笔记一年会员第一次付费 | 11   | 全平台 |
+| 2    | 为知笔记一年会员第二次付费 | 11   | 全平台 |
+| 3    | OneDrive扩容10G            | 2    | 全平台 |
+| 5    | GooglePlay$                | 156  | 全平台 |
+| 6    | GooglePlay$                | 34   | 全平台 |
+| 7    | GooglePlay$                | 32   | 全平台 |
+
+合计246元
