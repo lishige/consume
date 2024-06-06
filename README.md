@@ -53,62 +53,61 @@
 51. Moment ： 6元                               
 52. Diarium(微软商店版)：24元                            
 53. SafeInCloud(微软商店版) ： 21元                           
-54. Dropbox：19.9元                            
-55. 记得日子：19元                           
-56. 重要日子：4元                   
-57. MT管理器98.8元                
-58. BitDock：57.62元                              
-59. 色采： 25.81元                        
-60. 50音起源和捧读： 59.76元                             
-61. OneSwitch：13.4元                              
-62. 落格输入法：11.11元                              
-63. MateTranslate：11.11元                            
-64. Scrible：32元                          
-65. Nebo：39元                           
-66. InternetDownloadManager：0.64元                            
-67. PDF Reader Pro：88元
-68. WindowTop：35.83元                      
-69. ProcessLasso：59.5元                         
-70. ParkControl：28.42元                          
-71. MindLine：17元     
-72. Groupy： 35元                            
-73. Fences：29.1元                         
-74. TidyTabs：54元                              
-75. ShadowDefender：99元                   
-76. Scapple：99元                           
-77. Cacheman：93.83元                             
-78. AdGuard：79.2元                          
-79. 极度扫描： 30元                          
-80. 图叨叨：18元                          
-81. 可乐记(3设备)：35.3元                        
-82. 可乐记(2设备)：2.87元                         
-83. 可乐记(1设备)：21.85元                     
-84. 每日德语听力加德语助手终身会员：498元                    
-85. 每日西语听力加西语助手终身会员：498元                     
-86. Moment(倒数日)：6元           
-87. OffScreen：18元       
-88. SDMaid：19.39元     
-89. 纸塘壁纸：46元
-90. Bmap(白马地图)：88元     
-91. OneCalendar：35元              
-92. 白描证件照：1元     
-93. Migi：50元  
-94. Writeathon：268元             
-95. TotalCommander：216.85元               
-96. myBase7：167.92元
-97. Reftime：20元
-98. TagLyst：117.6元         
-99. 时光序：98元
-100. ShellPro：9.99元
-101. Snapmod： 6元                            
-102. 咕咚云图：28元               
-103. 钱迹：128元
-104. Noteself：33.06元                   
-105. 享做笔记：39元                       
-106. 一木记账：54.4元                 
-107. 次元壁纸：15元                
-108. 欧路教育软件：98元
-合计:9403.34元
+54. 记得日子：19元                           
+55. 重要日子：4元                   
+56. MT管理器98.8元                
+57. BitDock：57.62元                              
+58. 色采： 25.81元                        
+59. 50音起源和捧读： 59.76元                             
+60. OneSwitch：13.4元                              
+61. 落格输入法：11.11元                              
+62. MateTranslate：11.11元                            
+63. Scrible：32元                          
+64. Nebo：39元                           
+65. InternetDownloadManager：0.64元                            
+66. PDF Reader Pro：88元
+67. WindowTop：35.83元                      
+68. ProcessLasso：59.5元                         
+69. ParkControl：28.42元                          
+70. MindLine：17元     
+71. Groupy： 35元                            
+72. Fences：29.1元                         
+73. TidyTabs：54元                              
+74. ShadowDefender：99元                   
+75. Scapple：99元                           
+76. Cacheman：93.83元                             
+77. AdGuard：79.2元                          
+78. 极度扫描： 30元                          
+79. 图叨叨：18元                          
+80. 可乐记(3设备)：35.3元                        
+81. 可乐记(2设备)：2.87元                         
+82. 可乐记(1设备)：21.85元                     
+83. 每日德语听力加德语助手终身会员：498元                    
+84. 每日西语听力加西语助手终身会员：498元                     
+85. Moment(倒数日)：6元           
+86. OffScreen：18元       
+87. SDMaid：19.39元     
+88. 纸塘壁纸：46元
+89. Bmap(白马地图)：88元     
+90. OneCalendar：35元              
+91. 白描证件照：1元     
+92. Migi：50元  
+93. Writeathon：268元             
+94. TotalCommander：216.85元               
+95. myBase7：167.92元
+96. Reftime：20元
+97. TagLyst：117.6元         
+98. 时光序：98元
+99. ShellPro：9.99元
+100. Snapmod： 6元                            
+101. 咕咚云图：28元               
+102. 钱迹：128元
+103. Noteself：33.06元                   
+104. 享做笔记：39元                       
+105. 一木记账：54.4元                 
+106. 次元壁纸：15元                
+107. 欧路教育软件：98元
+合计:9383.44元
 # 邮件
 1. seer@88.com：16.8元
 2. 2focus@111.com：68元
@@ -122,4 +121,5 @@
 4. GooglePlay$：156元
 5. GooglePlay$：34元
 6. GooglePlay$：32元
-合计246元
+7. Dropbox扩容到18.38G：9.9元
+合计255.9元
