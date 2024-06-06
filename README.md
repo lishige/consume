@@ -29,7 +29,7 @@
 | 24   | WinRAR6                                                      | 179    | Windows                    |
 | 25   | DirectoryOpus 12 Pro                                         | 238    | Windows                    |
 | 26   | 不知名软件                                                   | 350    | 不知名平台                 |
-| 27   | 指间书摘                                                     | 34.4   | Android                    |
+| 27   | 指间书摘                                                     | 44.8   | Android                    |
 | 28   | 不知名软件                                                   | 1044   | Windows                    |
 | 29   | 不知名软件                                                   | 350    | Windows                    |
 | 30   | Bandizip和Honeycam                                           | 191.36 | Windows                    |
@@ -127,7 +127,7 @@
 | 122  | 次元壁纸                                                     | 15     | Android                    |
 | 123  | 欧路教育软件                                                 | 98     | 全平台                     |
 
-合计11741.77元
+合计11752.17元
 
 # 邮件
 
