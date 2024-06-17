@@ -23,7 +23,7 @@
 21.  优效文件助手：35元                          
 22.  优效日历：199元                           
 23.  myBase8：229.08元                        
-24.  指间书摘：44.8元     
+24.  纸间书摘：44.8元     
 25.  Ashampoo Photo Optimizer 8：0.09元          
 26.  Ashampoo Photo Optimizer 8：0.09元             
 27.  Ashampoo Photo Commander 16：0.09元            
