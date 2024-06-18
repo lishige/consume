@@ -1,111 +1,108 @@
 > 有些产品不知道买的时候是多少钱了，等想起来的时候再去补上。
 # 软件
-1.  红线：5元
-2.  Zoomy：19元                       
-3.  Downie：17.4元                            
-4.  Typora：73元                  
-5.  WinRAR(6版本)：179元                     
-6.  Directory Opus 12 Pro：238元
-7.  不知名产品付费一：350元                         
-8.  不知名产品付费二：350元
-9.  不知名产品付费三：1044元                
-10.  WonderShare PDF终身版：279元                          
-11.  Bandizip和Honeycam：191.36元                
-12.  Bandizip：179.55元                                                                                          
-13.  One Switch for Mac：11元
-14.  IObit MacBooster 8 for Mac：8.6元                                
-15.  Permute for mac：11元                            
-16.  Gilisoft File Lock Pro：53.36元                          
-17.  Windows 10 Pro：0.01元                        
-18.  WonderFox办公文档管理加密隐藏器工具软件：47.4元                      
-19.  cFos Personal Net 数据文件管理同步软件：0.01元                            
-20.  ES文件浏览器：99元                    
-21.  优效文件助手：35元                          
-22.  优效日历：199元                           
-23.  myBase8：229.08元                        
-24.  纸间书摘：44.8元     
-25.  Ashampoo Photo Optimizer 8：0.09元          
-26.  Ashampoo Photo Optimizer 8：0.09元             
-27.  Ashampoo Photo Commander 16：0.09元            
-28.  Ashampoo Photo Commander 16：0.09元     
-29.  Ashampoo Uninstaller 9 PC：0.1元                            
-30.  Uninstall Tool：73.1元                          
-31.  Scrivener：255.55元                 
-32.  AquaSnap：112.1元                   
-33.  Listary Pro：64.6元           
-34.  PP鸭：66.4元
-35.  Wise Care 365 Pro：92.55元          
-36.  OfficeTab：84.55元           
-37.  cFosSpeed：36.86元
-38.  AxMath：31.35元                
-39.  AxGlyph：31.35元
-40.  白描：19元
-41.  InternetDownloadManager：92.55元                             
-42.  Iris Pro：0.1元                            
-43.  Snipaste Pro： 83元                            
-44.  Wgestures 2：19.7元                          
-45.  便捷下载：45元                           
-46.  CleanShot：141.53元                           
-47.  XYplorer：144.39元                         
-48.  Moment ： 6元                               
-49.  Diarium(微软商店版)：24元                            
-50.  SafeInCloud(微软商店版) ： 21元                           
-51.  记得日子：19元                           
-52.  重要日子：4元                   
-53.  MT管理器：98.8元                
-54.  BitDock：57.62元                              
-55.  色采： 25.81元                        
-56.  50音起源和捧读： 59.76元                             
-57.  OneSwitch：13.4元                              
-58.  落格输入法：11.11元                              
-59.  MateTranslate：11.11元                            
-60.  Scrible：32元                          
-61.  Nebo：39元                           
-62.  InternetDownloadManager：0.64元                            
-63.  PDF Reader Pro：88元
-64.  WindowTop：35.83元                      
-65.  ProcessLasso：59.5元                         
-66.  ParkControl：28.42元                          
-67.  MindLine：17元     
-68.  Groupy： 35元                            
-69.  Fences：29.1元                         
-70.  TidyTabs：54元                              
-71.  ShadowDefender：99元                   
-72.  Scapple：99元                           
-73.  Cacheman：93.83元                             
-74.  AdGuard：79.2元                          
-75.  极度扫描： 30元                          
-76.  图叨叨：18元                          
-77.  可乐记(3设备)：35.3元                        
-78.  可乐记(2设备)：2.87元（不知道为什么有这个消费记录了）                         
-79.  可乐记(1设备)：21.85元（不知道为什么有这个消费记录了）                     
-80.  每日德语听力加德语助手终身会员：498元                    
-81.  每日西语听力加西语助手终身会员：498元                     
-82.  Moment(倒数日)：6元           
-83.  OffScreen：18元       
-84.  SDMaid：19.39元     
-85.  纸塘壁纸：46元
-86.  Bmap(白马地图)：88元     
-87.  OneCalendar：35元              
-88.  白描证件照：1元     
-89.  Migi：50元  
-90.  Writeathon：268元             
-91.  TotalCommander：216.85元               
-92.  myBase7：167.92元
-93.  Reftime：20元
-94.  TagLyst：117.6元         
-95.  时光序：98元
-96.  ShellPro：9.99元
-97.  Snapmod： 6元                            
-98.  咕咚云图：28元               
-99.  钱迹：128元
-100.  Noteself：33.06元（不知道为什么到了别人的华为账号里面了）                   
-101.  享做笔记：39元                       
-102.  一木记账：54.4元                 
-103.  次元壁纸：15元                
-104.  欧路教育软件：98元
+1.  AdGuard：79.2元
+2.  AquaSnap：112.1元 
+3.  Ashampoo Photo Commander 16：0.09元            
+4.  Ashampoo Photo Commander 16：0.09元
+5.  Ashampoo Photo Optimizer 8：0.09元          
+6.  Ashampoo Photo Optimizer 8：0.09元 
+7.  Ashampoo Uninstaller 9 PC：0.1元 
+8.  AxMath：31.35元                
+9.  AxGlyph：31.35元
+10.  Bmap(白马地图)：88元     
+11.  Bandizip：179.55元
+12.  Bandizip和Honeycam：191.36元                                                                                                          
+13.  BitDock：57.62元
+14.  Cacheman：93.83元                                                           
+15.  cFosSpeed：36.86元                            
+16.  cFos Personal Net 数据文件管理同步软件：0.01元
+17.  CleanShot：141.53元
+18.  Diarium(微软商店版)：24元                            
+19.  Directory Opus 12 Pro：238元
+20.  Downie：17.4元 
+21.  ES文件浏览器：99元  
+22.  Fences：29.1元 
+23.  Groupy： 35元                                                   
+24.  Gilisoft File Lock Pro：53.36元                          
+25.  InternetDownloadManager：92.55元
+26.  InternetDownloadManager：0.64元                            
+27.  IObit MacBooster 8 for Mac：8.6元                                
+28.  Iris Pro：0.1元
+29.  Listary Pro：64.6元
+30.  MateTranslate：11.11元
+31.  Migi：50元  
+32.  MindLine：17元                  
+33.  Moment ： 6元
+34.  MT管理器：98.8元
+35.  myBase7：167.92元
+36.  myBase8：229.08元                        
+37.  Nebo：39元
+38.  Noteself：33.06元（不知道为什么到了别人的华为账号里面了）                   
+39.  OfficeTab：84.55元
+40.  OffScreen：18元       
+41.  OneCalendar：35元              
+42.  OneSwitch：13.4元                                         
+43.  OneSwitchForMac：11元
+44.  ParkControl：28.42元
+45.  PDF Reader Pro：88元                          
+46.  Permute for mac：11元
+47.  PP鸭：66.4元 
+48.  ProcessLasso：59.5元  
+49.  Reftime：20元
+50.  SafeInCloud(微软商店版) ： 21元
+51.  Scapple：99元
+52.  Scrible：32元                                                                                
+53.  Scrivener：255.55元
+54.  SDMaid：19.39元     
+55.  ShadowDefender：99元                     
+56.  ShellPro：9.99元  
+57.  Snapmod： 6元                                         
+58.  Snipaste Pro： 83元
+59.  TagLyst：117.6元     
+60.  TidyTabs：54元                                   
+61.  TotalCommander：216.85元                                                                
+62.  Typora：73元
+63.  Uninstall Tool：73.1元 
+64.  Wgestures 2：19.7元                                                   
+65.  Windows 10 Pro：0.01元   
+66.  WindowTop：35.83元                                                    
+67.  WinRAR(6版本)：179元    
+68.  Writeathon：268元             
+69.  Wise Care 365 Pro：92.55元
+70.  WonderFox办公文档管理加密隐藏器工具软件：47.4元
+71.  WonderShare PDF终身版：279元   
+72.  XYplorer：144.39元                                                
+73.  Zoomy：19元    
+74.  50音起源和捧读： 59.76元          
+75.  白描：19元 
+76.  白描证件照：1元       
+77.  便捷下载：45元
+78.  不知名产品付费一：350元                         
+79.  不知名产品付费二：350元
+80.  不知名产品付费三：1044元  
+81.  次元壁纸：15元                                                      
+82.  咕咚云图：28元 
+83.  红线：5元
+84.  记得日子：19元                           
+85.  极度扫描： 30元
+86.  可乐记(3设备+2设备+1设备)：60.02元（只留下了3设备绑定）                        
+87.  落格输入法：11.11元      
+88.  每日德语听力加德语助手终身会员：498元                    
+89.  每日西语听力加西语助手终身会员：498元   
+90.  欧路教育软件：98元                            
+91.  钱迹：128元
+92.  色采： 25.81元                        
+93.  时光序：98元
+94.  图叨叨：18元                                     
+95.  享做笔记：39元  
+96.  一木记账：54.4元   
+97.  优效日历：199元 
+98.  优效文件助手：35元                          
+99.  纸间书摘：44.8元
+100.  纸塘壁纸：46元
+101.  重要日子：4元                                                            
 
-合计8866.07元
+合计8860.07元
 
 # 邮件
 1. seer@88.com：16.8元
